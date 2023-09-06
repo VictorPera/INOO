@@ -1,5 +1,8 @@
 public class App {
     public static void main(String[] args) throws Exception {
-        System.out.println("Hello, World!");
+
+        Product product = new Product("macarrao", 14.35, 14);
+        Product product = new Product("macarrao", 15.67, 13);
+        
     }
 }
